@@ -12,6 +12,9 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'devise', '~> 3.4.1'
 gem 'paperclip', "~> 4.2"
 gem 'aws-sdk', '~> 1.59.0'
+gem 'jquery-turbolinks', '~> 2.1.0'
+gem 'masonry-rails', '~> 0.2.4'
+
 group :development, :test do
 	gem 'sqlite3'
 end
