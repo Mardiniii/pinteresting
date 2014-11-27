@@ -11,6 +11,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 gem 'devise', '~> 3.4.1'
 gem 'paperclip', "~> 4.2"
+gem 'aws-sdk', '~> 1.59.0'
 group :development, :test do
 	gem 'sqlite3'
 end
